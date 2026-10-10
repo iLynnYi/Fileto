@@ -1,0 +1,31 @@
+# macOS 文件元数据
+.DS_Store
+._*
+.AppleDouble/
+.LSOverride
+
+# Swift Package Manager 构建产物与本地工作区
+/.build/
+/.swiftpm/
+
+# Xcode 构建产物与个人设置
+/build/
+/DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcresult
+*.xcarchive
+*.dSYM/
+
+# 应用打包、诊断工具与临时验证夹具
+/dist/
+
+/docs/local/AGENTS.md
+
+# 本机内部文档、排查记录与验收证据
+/docs/local/
+
+# 保留 Package.resolved、共享 Scheme、源图标与公开文档截图。
+/.idea/
